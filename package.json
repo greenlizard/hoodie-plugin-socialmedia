@@ -54,7 +54,7 @@
   "keywords": [
     "hoodie",
     "socialmedia",
-    "goappes",
+    "greenlizard",
     "plugin"
   ],
   "scripts": {
@@ -62,20 +62,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/goappes/hoodie-plugin-socialmedia"
+    "url": "https://github.com/greenlizard/hoodie-plugin-socialmedia"
   },
   "maintainers": [
     {
       "name": "gabriel",
-      "email": "gabriel@goappes.com"
+      "email": "gabriel@greenlizard.com.br"
     },
     {
       "name": "joao",
-      "email": "joao@goappes.com"
-    },
-    {
-      "name": "italo",
-      "email": "italo@goappes.com"
+      "email": "joao@greenlizard.com.br"
     }
   ]
 }
